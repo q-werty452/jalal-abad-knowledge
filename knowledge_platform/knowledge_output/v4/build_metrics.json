@@ -1,0 +1,141 @@
+{
+  "v3": {
+    "aliases": 1,
+    "appeal_categories": 36,
+    "competences": 148,
+    "conflicts": 12,
+    "contacts": 491,
+    "escalation_rules": 2,
+    "hours": 64,
+    "organizations": 175,
+    "procedures": 16,
+    "public_contacts": 317,
+    "qa_pairs_ky": 27,
+    "qa_pairs_ru": 61,
+    "rag_chunks": 418,
+    "real_query_examples": 5,
+    "routing_rules": 120,
+    "services": 16,
+    "service_territories": 47,
+    "sources": 257,
+    "staff_roles": 27,
+    "territories": 82,
+    "topic_aliases": 14,
+    "district_profiles": 0,
+    "appeal_flows": 0
+  },
+  "v4": {
+    "aliases": 1,
+    "appeal_categories": 63,
+    "competences": 270,
+    "conflicts": 15,
+    "contacts": 653,
+    "escalation_rules": 8,
+    "hours": 78,
+    "organizations": 339,
+    "procedures": 19,
+    "public_contacts": 317,
+    "qa_pairs_ky": 27,
+    "qa_pairs_ru": 61,
+    "rag_chunks": 673,
+    "real_query_examples": 5,
+    "routing_rules": 205,
+    "services": 51,
+    "service_territories": 77,
+    "sources": 265,
+    "staff_roles": 103,
+    "territories": 163,
+    "topic_aliases": 25,
+    "district_profiles": 3,
+    "appeal_flows": 1
+  },
+  "by_source": {
+    "NEW-259": {
+      "contacts": 39,
+      "district_profiles": 1,
+      "escalation_rules": 1,
+      "procedures": 1,
+      "organizations": 37,
+      "competences": 38,
+      "rag_chunks": 53,
+      "service_territories": 3,
+      "routing_rules": 3,
+      "territories": 2,
+      "appeal_categories": 13
+    },
+    "NEW-258": {
+      "contacts": 16,
+      "territories": 41,
+      "organizations": 27,
+      "routing_rules": 41,
+      "rag_chunks": 41,
+      "topic_aliases": 6
+    },
+    "NEW-260": {
+      "contacts": 7,
+      "conflicts": 1,
+      "competences": 1,
+      "rag_chunks": 6,
+      "organizations": 5,
+      "routing_rules": 4,
+      "territories": 5,
+      "service_territories": 5,
+      "procedures": 1,
+      "appeal_flows": 1
+    },
+    "NEW-262": {
+      "organizations": 34,
+      "contacts": 35,
+      "competences": 35,
+      "rag_chunks": 70,
+      "services": 35,
+      "staff_roles": 42,
+      "territories": 3
+    },
+    "NEW-263": {
+      "contacts": 4,
+      "staff_roles": 1,
+      "district_profiles": 1
+    },
+    "NEW-264": {
+      "organizations": 9,
+      "contacts": 9,
+      "territories": 26,
+      "routing_rules": 22,
+      "rag_chunks": 22,
+      "staff_roles": 23,
+      "escalation_rules": 4,
+      "topic_aliases": 5
+    },
+    "NEW-265": {
+      "contacts": 52,
+      "conflicts": 2,
+      "staff_roles": 10,
+      "district_profiles": 1,
+      "escalation_rules": 1,
+      "procedures": 1,
+      "organizations": 52,
+      "competences": 48,
+      "rag_chunks": 63,
+      "territories": 4,
+      "service_territories": 22,
+      "routing_rules": 15,
+      "appeal_categories": 14
+    }
+  },
+  "review": [
+    "NEW-258 paragraph:70: неполный телефон +996 475 344",
+    "NEW-258 paragraph:76: РЭС не указан точно; маршрут к айыл өкмөтү с подтверждением оператора",
+    "NEW-264 table:2:row:7: указан только специалист по ЧС; организация люков не определена"
+  ],
+  "source_hashes": {
+    "NEW-258": "a01a776142be983f1c476469cef702b35d9f830904cb2d166b704653d54a547e",
+    "NEW-259": "b3ee1e661c9fa7c94ced2587db4778673d542d9232c1092c4f7675e853c5e9e3",
+    "NEW-260": "0ca6777ab6e2ab575c1ae53d0b9c415abf47a737a6fbf907e168ff4daf979f11",
+    "NEW-261": "f61896a312e13a120f092f05ad0ca6c0c9a1cde7276220d3c6cd7de0f6795696",
+    "NEW-262": "19f2130aa21fd7f7bf567f28c8c1aa64c93ed7c7ed6fc3180458f8000eed9449",
+    "NEW-263": "9aa8de89b7043787d67b2ff0be4d1329e4bb8dfecc62aa97e6d0ce6ef93e0d85",
+    "NEW-264": "21dcf45f29bdc4b5a6dc7b65e2c4ec236bdc22cad262692325a62cc2d0ef0488",
+    "NEW-265": "11c94f94b87849beb08350a888db94c6a9e7ebf1ed36d6c038253319f38f835b"
+  }
+}

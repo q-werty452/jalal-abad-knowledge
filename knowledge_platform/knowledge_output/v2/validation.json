@@ -1,0 +1,38 @@
+{
+  "result": "PASS",
+  "errors": [],
+  "counts": {
+    "aliases": 1,
+    "competences": 125,
+    "conflicts": 8,
+    "contacts": 436,
+    "hours": 53,
+    "organizations": 173,
+    "procedures": 7,
+    "public_contacts": 308,
+    "qa_pairs_ky": 27,
+    "qa_pairs_ru": 61,
+    "rag_chunks": 348,
+    "routing_rules": 72,
+    "services": 16,
+    "sources": 247,
+    "territories": 45
+  },
+  "contacts_by_type": {
+    "address": 135,
+    "phone": 185,
+    "working_hours": 53,
+    "email": 35,
+    "fax": 25,
+    "website": 3
+  },
+  "public_contacts_by_type": {
+    "address": 126,
+    "phone": 74,
+    "working_hours": 53,
+    "email": 34,
+    "fax": 18,
+    "website": 3
+  },
+  "original_files_unchanged": 29
+}

@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "errors": [],
+  "error_count": 0,
+  "knowledge_version": "7fa44034af0e6322",
+  "public_contacts": 473,
+  "audit_valid": 473,
+  "suppressed": 1,
+  "new_source_value_checks": 169,
+  "runtime_counts": {
+    "sources": 265,
+    "organizations": 339,
+    "competences": 270,
+    "contacts": 473,
+    "routing_rules": 134,
+    "qa_pairs_ru": 61,
+    "qa_pairs_ky": 27,
+    "rag_chunks": 667,
+    "aliases": 1
+  }
+}

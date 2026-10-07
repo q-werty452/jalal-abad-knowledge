@@ -1,0 +1,42 @@
+{
+  "result": "PASS",
+  "errors": [],
+  "full_counts": {
+    "aliases": 1,
+    "appeal_categories": 36,
+    "competences": 148,
+    "conflicts": 12,
+    "contacts": 491,
+    "escalation_rules": 2,
+    "hours": 64,
+    "organizations": 175,
+    "procedures": 16,
+    "public_contacts": 317,
+    "qa_pairs_ky": 27,
+    "qa_pairs_ru": 61,
+    "rag_chunks": 418,
+    "real_query_examples": 5,
+    "routing_rules": 120,
+    "services": 16,
+    "service_territories": 47,
+    "sources": 257,
+    "staff_roles": 27,
+    "territories": 82,
+    "topic_aliases": 14
+  },
+  "runtime_counts": {
+    "aliases": 1,
+    "competences": 148,
+    "contacts": 317,
+    "organizations": 175,
+    "qa_pairs_ky": 27,
+    "qa_pairs_ru": 61,
+    "rag_chunks": 412,
+    "routing_rules": 49,
+    "sources": 257
+  },
+  "new_sources": {
+    "duplicate": 2,
+    "processed": 8
+  }
+}

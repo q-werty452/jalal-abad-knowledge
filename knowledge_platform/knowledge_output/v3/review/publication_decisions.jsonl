@@ -1,0 +1,7 @@
+{"source_id": "NEW-249", "organization_id": "org-ergesh-aliev-aiyl-okmotu-54d3a80", "raw_permission": "Да / Нет / Частично-нет", "decision": "AMBIGUOUS", "locator": "table:5:row:13", "reason": "mixed/partial/template answer requires clarification"}
+{"source_id": "NEW-250", "organization_id": "org-nooken-raionduk-mamlekettik-administratsiyasy-313800f", "raw_permission": "Частично", "decision": "AMBIGUOUS", "locator": "table:5:row:13", "reason": "mixed/partial/template answer requires clarification"}
+{"source_id": "NEW-251", "organization_id": "org-burgondu-dostuk-aiyl-okmotu-79bc4da", "raw_permission": "Да / Нет / Частично", "decision": "AMBIGUOUS", "locator": "table:5:row:13", "reason": "mixed/partial/template answer requires clarification"}
+{"source_id": "NEW-252", "organization_id": "org-kochkor-ata-shaarynyn-meriyasy-2cc10ef", "raw_permission": "Да", "decision": "PUBLIC", "locator": "table:5:row:13", "reason": "explicit source permission"}
+{"source_id": "NEW-253", "organization_id": "org-mombekov-aiyl-okmotu-d36a51d", "raw_permission": "Нет", "decision": "INTERNAL_ONLY", "locator": "table:5:row:13", "reason": "explicit source permission"}
+{"source_id": "NEW-254", "organization_id": "v3-org-0b499ba2edec6b", "raw_permission": "Да", "decision": "PUBLIC", "locator": "table:5:row:13", "reason": "explicit source permission"}
+{"source_id": "NEW-255", "organization_id": "org-shamalduu-sai-shaardyk-meriya-9de9534", "raw_permission": "Да", "decision": "PUBLIC", "locator": "table:5:row:13", "reason": "explicit source permission"}

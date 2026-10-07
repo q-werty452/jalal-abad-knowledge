@@ -1,0 +1,48 @@
+{
+  "before": {
+    "organizations": 94,
+    "phones": 2,
+    "fax": 0,
+    "addresses": 70,
+    "emails": 0,
+    "websites": 0,
+    "working_hours": 0,
+    "reception_hours": 0,
+    "competences": 83,
+    "services": 0,
+    "procedures": 0,
+    "routing_facts": 46,
+    "rag_chunks": 193
+  },
+  "after": {
+    "organizations": 173,
+    "phones": 185,
+    "fax": 25,
+    "addresses": 135,
+    "emails": 35,
+    "websites": 3,
+    "working_hours": 53,
+    "reception_hours": 0,
+    "competences": 125,
+    "services": 16,
+    "procedures": 7,
+    "routing_facts": 72,
+    "rag_chunks": 348
+  },
+  "contact_visibility": {
+    "PUBLIC": 308,
+    "INTERNAL_ONLY": 128
+  },
+  "contact_status": {
+    "SOURCE_CONFIRMED": 408,
+    "CONFLICT": 14,
+    "AMBIGUOUS": 14
+  },
+  "recoverable_decisions": {
+    "SOURCE_CONFIRMED": 86,
+    "AMBIGUOUS": 77,
+    "CONFLICT": 6,
+    "INTERNAL_ONLY": 25
+  },
+  "contact_scan_blocks": 900
+}

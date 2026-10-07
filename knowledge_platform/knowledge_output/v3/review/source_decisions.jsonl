@@ -1,0 +1,10 @@
+{"source_id": "NEW-248", "decision": "EXACT_DUPLICATE", "duplicate_of": "SRC-183", "note": "facts promoted through the existing source ID"}
+{"source_id": "NEW-249", "decision": "NEW_UNIQUE", "near_duplicate_of": "NEW-251", "text_similarity": 0.918, "note": "shared request template; filled answers retained independently"}
+{"source_id": "NEW-250", "decision": "NEW_UNIQUE", "near_duplicate_of": "NEW-252", "text_similarity": 0.943, "note": "shared request template; filled answers retained independently"}
+{"source_id": "NEW-251", "decision": "NEW_UNIQUE", "near_duplicate_of": "NEW-249", "text_similarity": 0.912, "note": "shared request template; filled answers retained independently"}
+{"source_id": "NEW-252", "decision": "NEW_UNIQUE", "near_duplicate_of": "NEW-255", "text_similarity": 0.994, "note": "shared request template; filled answers retained independently"}
+{"source_id": "NEW-253", "decision": "NEW_UNIQUE", "near_duplicate_of": "NEW-255", "text_similarity": 0.783, "note": "shared request template; filled answers retained independently"}
+{"source_id": "NEW-254", "decision": "NEW_UNIQUE", "near_duplicate_of": "NEW-252", "text_similarity": 0.988, "note": "shared request template; filled answers retained independently"}
+{"source_id": "NEW-255", "decision": "NEW_UNIQUE", "near_duplicate_of": "NEW-254", "text_similarity": 0.991, "note": "shared request template; filled answers retained independently"}
+{"source_id": "NEW-256", "decision": "EXACT_DUPLICATE", "duplicate_of": "SRC-183", "note": "facts promoted through the existing source ID"}
+{"source_id": "NEW-257", "decision": "NEW_UNIQUE", "near_duplicate_of": "NEW-255", "text_similarity": 0.679, "note": "shared request template; filled answers retained independently"}

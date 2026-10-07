@@ -1,0 +1,197 @@
+{
+  "conflicts": [
+    {
+      "conflict_id": "CONFLICT-001",
+      "entity": "Жалал-Абад өсүмдүктөрдү химиялаштыруу,коргоо жана карантин башкармалыгы",
+      "field": "address",
+      "source_a": {
+        "source_id": "SRC-225",
+        "source_file": "ЧАТ БОТ Жалал-Абад обл.docx",
+        "source_type": "docx",
+        "source_language": "ky",
+        "document_date": null,
+        "issuer": null,
+        "extracted_at": "2026-09-25",
+        "verification_status": "SOURCE_FACT",
+        "page": null,
+        "sheet": null,
+        "locator": "table:1:row:37"
+      },
+      "value_a": "Сузак айылы,Дакан Палван көчосү 52",
+      "source_b": {
+        "source_id": "SRC-225",
+        "source_file": "ЧАТ БОТ Жалал-Абад обл.docx",
+        "source_type": "docx",
+        "source_language": "ky",
+        "document_date": null,
+        "issuer": null,
+        "extracted_at": "2026-09-25",
+        "verification_status": "SOURCE_FACT",
+        "page": null,
+        "sheet": null,
+        "locator": "table:1:row:38"
+      },
+      "value_b": "Манас шаары С.Качкынбаев көчөсү 11",
+      "preferred_value": "UNKNOWN",
+      "action": "Запросить подтверждение адреса и статуса подразделений у мэрии/ведомства."
+    },
+    {
+      "conflict_id": "CONFLICT-002",
+      "entity": "Мамлекттик салык кызматынын Жалал-Абад облусунун Майлуу-Суу шаары боюнча башкы башкармалыгы",
+      "field": "address",
+      "source_a": {
+        "source_id": "SRC-225",
+        "source_file": "ЧАТ БОТ Жалал-Абад обл.docx",
+        "source_type": "docx",
+        "source_language": "ky",
+        "document_date": null,
+        "issuer": null,
+        "extracted_at": "2026-09-25",
+        "verification_status": "SOURCE_FACT",
+        "page": null,
+        "sheet": null,
+        "locator": "table:1:row:23"
+      },
+      "value_a": "Майлуу-Суу шаары Сыдыков көчөсү 34",
+      "source_b": {
+        "source_id": "SRC-225",
+        "source_file": "ЧАТ БОТ Жалал-Абад обл.docx",
+        "source_type": "docx",
+        "source_language": "ky",
+        "document_date": null,
+        "issuer": null,
+        "extracted_at": "2026-09-25",
+        "verification_status": "SOURCE_FACT",
+        "page": null,
+        "sheet": null,
+        "locator": "table:1:row:52"
+      },
+      "value_b": "Майлуу-Суу шаары Сыдыков кочосу 34",
+      "preferred_value": "UNKNOWN",
+      "action": "Запросить подтверждение адреса и статуса подразделений у мэрии/ведомства."
+    },
+    {
+      "conflict_id": "CONFLICT-003",
+      "entity": "Манас шаардык финансы башкармалыгы",
+      "field": "address_territory_consistency",
+      "source_a": {
+        "source_id": "SRC-225",
+        "source_file": "ЧАТ БОТ Жалал-Абад обл.docx",
+        "source_type": "docx",
+        "source_language": "ky",
+        "document_date": null,
+        "issuer": null,
+        "extracted_at": "2026-09-25",
+        "verification_status": "SOURCE_FACT",
+        "page": null,
+        "sheet": null,
+        "locator": "table:1:row:15"
+      },
+      "value_a": "Жээналиев №54 с.Казарман",
+      "source_b": {
+        "source_id": "SRC-039",
+        "source_file": "Документы_Word.zip::Документы_Word/Манас город полож.docx",
+        "source_type": "docx",
+        "source_language": "ru",
+        "document_date": null,
+        "issuer": null,
+        "extracted_at": "2026-09-25",
+        "verification_status": "SOURCE_FACT",
+        "page": null,
+        "sheet": null,
+        "locator": "paragraph:2"
+      },
+      "value_b": "Манасское городское финансовое управление (наименование)",
+      "preferred_value": "UNKNOWN",
+      "action": "Подтвердить фактический адрес управления и территориальную принадлежность."
+    }
+  ],
+  "gaps": [
+    [
+      "GAP-001",
+      "Утверждённая матрица маршрутизации для пилота",
+      "Без неё предложения нельзя переводить в production rules.",
+      "Мэрия и владельцы ведомств",
+      "XLSX: тема, территория, первичный исполнитель, исключения, дата утверждения"
+    ],
+    [
+      "GAP-002",
+      "Границы пилота и зоны обслуживания",
+      "Областные и городские учреждения смешаны.",
+      "Мэрия",
+      "Утверждённый перечень территорий и GeoJSON/GPKG"
+    ],
+    [
+      "GAP-003",
+      "Актуальные публичные контакты и адреса",
+      "В документах смешаны служебные и личные номера; адреса местами расходятся.",
+      "Мэрия и каждое ведомство",
+      "Реестр контактов с public_contact и датой проверки"
+    ],
+    [
+      "GAP-004",
+      "Утверждённые категории Django и соответствия тем",
+      "Кандидатные темы корпуса не равны действующим кодам.",
+      "Владелец Django backend и мэрия",
+      "Экспорт категорий, версий и маппинга"
+    ],
+    [
+      "GAP-005",
+      "Актуальные официальные акты и сроки",
+      "Анкеты называют сроки без полного нормативного основания.",
+      "Мэрия и юридические службы",
+      "Реестр актов с номером, датой и действующей редакцией"
+    ],
+    [
+      "GAP-006",
+      "Утверждённые названия RU/KY",
+      "Для большинства организаций подтверждён только один язык.",
+      "Ведомства",
+      "Двуязычный официальный реестр с aliases"
+    ],
+    [
+      "GAP-007",
+      "Исключения и межведомственные случаи",
+      "Общая компетенция не определяет ответственного при пересечении функций.",
+      "Мэрия и ведомства",
+      "Таблица исключений и эскалаций"
+    ],
+    [
+      "GAP-008",
+      "OCR/ручная проверка заблокированных файлов",
+      "Часть сканов и старых форматов не даёт проверяемого текста.",
+      "Владельцы документов",
+      "Поисковые PDF/DOCX или заверенная расшифровка"
+    ],
+    [
+      "GAP-009",
+      "Публичность и права на публикацию",
+      "Даже сведения из предоставленной таблицы не помечены как разрешённые к публикации.",
+      "Мэрия и ведомства",
+      "Поле publication_status и письменное согласование"
+    ],
+    [
+      "GAP-010",
+      "Тождественность похожих названий и RU/KY пар",
+      "Близкие названия электрических, архивных, дорожных и экологических структур встречаются в разных источниках; автоматическое объединение может создать ложную организацию.",
+      "Мэрия и соответствующие ведомства",
+      "Реестр стабильных ID, официальных названий RU/KY и подтверждённых aliases"
+    ]
+  ],
+  "counts": {
+    "sources": 230,
+    "processed": 184,
+    "duplicates": 34,
+    "blocked": 12,
+    "organizations": 94,
+    "competences": 83,
+    "contacts": 72,
+    "routing_verified": 18,
+    "routing_proposed": 28,
+    "qa_ru": 6,
+    "qa_ky": 27,
+    "rag_chunks": 193,
+    "conflicts": 3,
+    "gaps": 10
+  }
+}

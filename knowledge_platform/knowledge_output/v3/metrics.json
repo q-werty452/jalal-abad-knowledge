@@ -1,0 +1,121 @@
+{
+  "before": {
+    "sources": 247,
+    "organizations": 173,
+    "contacts": 436,
+    "staff_roles": 0,
+    "territories": 45,
+    "competences": 125,
+    "services": 16,
+    "procedures": 7,
+    "routing_rules": 72,
+    "rag_chunks": 348,
+    "real_query_examples": 0,
+    "escalation_rules": 0,
+    "service_territories": 0,
+    "conflicts": 8,
+    "public_contacts": 308,
+    "internal_contacts": 128
+  },
+  "after": {
+    "sources": 257,
+    "organizations": 175,
+    "contacts": 491,
+    "staff_roles": 27,
+    "territories": 82,
+    "competences": 148,
+    "services": 16,
+    "procedures": 16,
+    "routing_rules": 120,
+    "rag_chunks": 418,
+    "real_query_examples": 5,
+    "escalation_rules": 2,
+    "service_territories": 47,
+    "conflicts": 12,
+    "public_contacts": 317,
+    "internal_contacts": 174
+  },
+  "contacts_by_status": {
+    "SOURCE_CONFIRMED": 447,
+    "CONFLICT": 16,
+    "AMBIGUOUS": 28
+  },
+  "contacts_by_visibility": {
+    "PUBLIC": 317,
+    "INTERNAL_ONLY": 174
+  },
+  "source_decisions": {
+    "EXACT_DUPLICATE": 2,
+    "NEW_UNIQUE": 8,
+    "AMBIGUOUS_SERVICE_ZONE": 3,
+    "OFFICE_ADDRESS_NOT_SERVICE_ZONE": 3,
+    "CONFLICT_SERVICE_ZONE": 2,
+    "AMBIGUOUS": 2
+  },
+  "new_facts_by_source": {
+    "SRC-183": {
+      "contacts": 7,
+      "competences": 23,
+      "procedures": 1,
+      "routing_rules": 18,
+      "rag_chunks": 47,
+      "staff_roles": 8,
+      "real_query_examples": 5,
+      "service_territories": 6
+    },
+    "NEW-248": {},
+    "NEW-249": {
+      "contacts": 7,
+      "procedures": 1,
+      "routing_rules": 8,
+      "rag_chunks": 1,
+      "staff_roles": 3,
+      "service_territories": 14
+    },
+    "NEW-250": {
+      "contacts": 6,
+      "procedures": 1,
+      "rag_chunks": 1
+    },
+    "NEW-251": {
+      "contacts": 8,
+      "procedures": 1,
+      "routing_rules": 8,
+      "rag_chunks": 1,
+      "staff_roles": 4,
+      "service_territories": 18
+    },
+    "NEW-252": {
+      "contacts": 3,
+      "procedures": 1,
+      "rag_chunks": 5
+    },
+    "NEW-253": {
+      "contacts": 14,
+      "procedures": 2,
+      "routing_rules": 8,
+      "rag_chunks": 1,
+      "staff_roles": 12,
+      "service_territories": 7
+    },
+    "NEW-254": {
+      "organizations": 1,
+      "contacts": 4,
+      "procedures": 1,
+      "rag_chunks": 5
+    },
+    "NEW-255": {
+      "contacts": 3,
+      "procedures": 1,
+      "rag_chunks": 4
+    },
+    "NEW-256": {},
+    "NEW-257": {
+      "organizations": 1,
+      "contacts": 3,
+      "routing_rules": 6,
+      "rag_chunks": 5,
+      "service_territories": 2
+    }
+  }
+}
