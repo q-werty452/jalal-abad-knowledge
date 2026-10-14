@@ -1,0 +1,7 @@
+{
+  "model": "text-embedding-3-small",
+  "count": 667,
+  "knowledge_version": "619cf2a505e5b5fb",
+  "reused_from_version": "7fa44034af0e6322",
+  "rag_sha256": "24ccd8517ff1321b9b531c77819a591f65b608a5633153e112b429f40cc6807a"
+}

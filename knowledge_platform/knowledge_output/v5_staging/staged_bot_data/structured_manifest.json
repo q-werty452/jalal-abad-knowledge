@@ -1,0 +1,13 @@
+{
+  "knowledge_version": "619cf2a505e5b5fb",
+  "files": {
+    "territories.jsonl": "7f87b6ea46eec58c6f89caf4ad10c6b87ad7e33a7ee236c8fbbece4626845cc5",
+    "service_territories.jsonl": "0ccd8fb647a246a64a7d439cbd5be46ea6f928ec3732def90894a156b216fa74",
+    "services.jsonl": "efe9b393ec972b30b0bcc0a091f2a775faccdfde63973b7850aa68a4d7cb6ab0",
+    "procedures.jsonl": "192f8a463c500dc67cf11c5b511bcfd0f9b08e515e00737594c6263eac3dbb13",
+    "district_profiles.jsonl": "10fedc4bd898cf2e0384fcd33be9d774ad5a8f74fb3a3c9f3df3583e3d85d2b0",
+    "escalation_rules.jsonl": "bdefbdd52ab1eac75a4864c8735c4629c304f1a90d5889a9244f006430327f88",
+    "conflicts.jsonl": "8c60eacd43d8206ab3bcff58b473a9f0b378ae00f6237767a5cf04f9ab255e03",
+    "appeal_scenarios.jsonl": "79a349012f6e613a6d207346e521a63de79d25422373f7277fd1207b85a1544f"
+  }
+}

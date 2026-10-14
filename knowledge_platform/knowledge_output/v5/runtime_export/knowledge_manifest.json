@@ -1,17 +1,17 @@
 {
-  "knowledge_version": "e92703f1d3a8dee7",
+  "knowledge_version": "b350d08eb47abcd7",
   "rag_chunks_count": 667,
-  "source_count": 265,
+  "source_count": 273,
   "files": {
-    "sources.jsonl": "43d0235496bea89a67e6a014c2c69630c10d708eea9a46d5c534344e06e22996",
-    "organizations.jsonl": "bfb4dba005f6a684749816dd4919ad36b36011429f2ecc90286e5802412bf474",
+    "sources.jsonl": "053dfb7e67d9830215285dc7a7ce6e0b47af65eb1bf3ecd4101e1b54a51e8943",
+    "organizations.jsonl": "70c6d08c73f7255ed2d1fad6a2c95dbe6fdbbecd79b9ed4a2e77f41466042e54",
     "competences.jsonl": "153b97536d7f06adf2d3099a92f9b496d92201942c5719703fd088be9a7524c8",
-    "contacts.jsonl": "9e93e7859e4bcc8722cc506a06106e938ffebc50320c7e8d3bdcb2667257d542",
+    "contacts.jsonl": "73867fa0cda5df3ffe2c6aef3f5f01c59c9190381352f143c4093c68d6e34a2c",
     "routing_rules.jsonl": "24e8e6eb26388605caa8db5075ac362e9065d8592ccc0095d46eb1c3f930669d",
     "qa_pairs_ru.jsonl": "1ff8954d3ea6d824f25f723403e1e15dfe3e5c6eb672aea17e30a7139b717861",
     "qa_pairs_ky.jsonl": "54d7fdcd80417da194b53eac3fd5d9c87b18502cbe700cc8e2db6218bad15334",
     "rag_chunks.jsonl": "24ccd8517ff1321b9b531c77819a591f65b608a5633153e112b429f40cc6807a",
-    "aliases.jsonl": "36da44f2537b35bed17bdb3ae9bb6e94d5e3a346c484053390893461f795bb6e"
+    "aliases.jsonl": "d9669555ce436b1e39e1e31e80c3fa75fc9757ae25407a6e62834f3933a2e61b"
   },
   "based_on": "7fa44034af0e6322",
   "admin_answers_source_ids": [
@@ -24,6 +24,7 @@
     "ADM-2026-10-12-a7",
     "ADM-2026-10-12-a8"
   ],
-  "organizations_count": 393,
-  "contacts_count": 936
+  "organizations_count": 417,
+  "contacts_count": 1023,
+  "merged_staging": "619cf2a505e5b5fb"
 }

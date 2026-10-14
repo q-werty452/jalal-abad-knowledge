@@ -1,0 +1,36 @@
+{
+  "knowledge_version": "619cf2a505e5b5fb",
+  "counts": {
+    "sources": 273,
+    "organizations": 389,
+    "competences": 270,
+    "contacts": 803,
+    "routing_rules": 134,
+    "qa_pairs_ru": 61,
+    "qa_pairs_ky": 27,
+    "rag_chunks": 667,
+    "aliases": 7,
+    "territories": 169,
+    "service_territories": 77,
+    "services": 51,
+    "procedures": 19,
+    "district_profiles": 3,
+    "escalation_rules": 8
+  },
+  "stats": {
+    "phone": 69,
+    "working_hours": 175,
+    "address": 82,
+    "duplicates": 19,
+    "possible_conflicts": 16,
+    "confirmed_conflicts": 4,
+    "conflict_contacts": 4,
+    "internal_contacts": 66,
+    "organizations": 50,
+    "territories": 6,
+    "aliases": 6,
+    "previous_public_mobile_withheld": 5
+  },
+  "review_count": 100,
+  "audit_count": 803
+}

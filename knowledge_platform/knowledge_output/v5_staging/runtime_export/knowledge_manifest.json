@@ -1,0 +1,16 @@
+{
+  "knowledge_version": "619cf2a505e5b5fb",
+  "rag_chunks_count": 667,
+  "source_count": 273,
+  "files": {
+    "sources.jsonl": "10ccc103486d195254259610b35b173062b32dd95fdcd5cce8f80c4bc4feedce",
+    "organizations.jsonl": "ad7c78b3ff0be664b22f776a09e71ba6c1688d39103a7d17cbefd0d8e7339775",
+    "competences.jsonl": "153b97536d7f06adf2d3099a92f9b496d92201942c5719703fd088be9a7524c8",
+    "contacts.jsonl": "3afd6557d0c1379e6f5d182eeaf6680535ff0ebce686e991da88b4f1bc6f69e3",
+    "routing_rules.jsonl": "24e8e6eb26388605caa8db5075ac362e9065d8592ccc0095d46eb1c3f930669d",
+    "qa_pairs_ru.jsonl": "1ff8954d3ea6d824f25f723403e1e15dfe3e5c6eb672aea17e30a7139b717861",
+    "qa_pairs_ky.jsonl": "54d7fdcd80417da194b53eac3fd5d9c87b18502cbe700cc8e2db6218bad15334",
+    "rag_chunks.jsonl": "24ccd8517ff1321b9b531c77819a591f65b608a5633153e112b429f40cc6807a",
+    "aliases.jsonl": "9def86ca41b88b7149dd28bad4ddabcc44f909812bada15360c93cccae882530"
+  }
+}

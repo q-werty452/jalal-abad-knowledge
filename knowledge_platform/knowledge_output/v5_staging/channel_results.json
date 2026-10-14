@@ -1,0 +1,14 @@
+[
+  {
+    "channel": "telegram",
+    "answer_mode": "structured",
+    "public_contact_found": true,
+    "unexpected_crm_submissions": 0
+  },
+  {
+    "channel": "whatsapp",
+    "answer_mode": "structured",
+    "public_contact_found": true,
+    "unexpected_crm_submissions": 0
+  }
+]

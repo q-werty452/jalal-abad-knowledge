@@ -1,0 +1,520 @@
+{
+  "count": 51,
+  "passed": 51,
+  "failures": [],
+  "provider_calls": {},
+  "rows": [
+    {
+      "case": 1,
+      "question": "Телефон Ноокен райондук мамлекеттик администрациясы",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-250",
+        "NEW-266",
+        "SRC-183"
+      ]
+    },
+    {
+      "case": 2,
+      "question": "Ноокен райондук мамлекеттик администрациясынын графиги кандай?",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-250",
+        "NEW-266",
+        "SRC-183"
+      ]
+    },
+    {
+      "case": 3,
+      "question": "Ноокен райондук электр тармактарынын телефон номери кандай?",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-266",
+        "SRC-184"
+      ]
+    },
+    {
+      "case": 4,
+      "question": "Номер МП «Ала-Бука Водоканал»",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-264",
+        "NEW-269"
+      ]
+    },
+    {
+      "case": 5,
+      "question": "Адрес МП «Ала-Бука Водоканал»",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-264",
+        "NEW-269"
+      ]
+    },
+    {
+      "case": 6,
+      "question": "Когда работает МП «Ала-Бука Водоканал»?",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-264",
+        "NEW-269"
+      ]
+    },
+    {
+      "case": 7,
+      "question": "Телефон Ала-Бука РЭС",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-269"
+      ]
+    },
+    {
+      "case": 8,
+      "question": "Номер ДЭП-17 Ала-Бука",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-269"
+      ]
+    },
+    {
+      "case": 9,
+      "question": "Телефон Мэрии города Кербен",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-272"
+      ]
+    },
+    {
+      "case": 10,
+      "question": "Адрес Мэрии города Кербен",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-272"
+      ]
+    },
+    {
+      "case": 11,
+      "question": "Когда работает Майлуу-Суу шаарынын шаарсууканал мекемеси?",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-267"
+      ]
+    },
+    {
+      "case": 12,
+      "question": "Телефон Майлуу-Суу шаарынын шаарсууканал мекемеси",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-267"
+      ]
+    },
+    {
+      "case": 13,
+      "question": "Номер Центра обслуживания населения № 04-04 (ЦОН г. Манас)",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-270"
+      ]
+    },
+    {
+      "case": 14,
+      "question": "Адрес Центра обслуживания населения № 04-04 (ЦОН г. Манас)",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-270"
+      ]
+    },
+    {
+      "case": 15,
+      "question": "Телефон Манас шаардык ички иштер бөлүмү",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-270"
+      ]
+    },
+    {
+      "case": 16,
+      "question": "Адрес Ноокен райондук Социалдык фонд башкармалыгы",
+      "mode": "conflict",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-266",
+        "SRC-187"
+      ]
+    },
+    {
+      "case": 17,
+      "question": "Адрес Ноокен райондук Эмгек, социалдык камсыздоо жана миграция башкармалыгы",
+      "mode": "conflict",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-266",
+        "SRC-186"
+      ]
+    },
+    {
+      "case": 18,
+      "question": "Мне предлагают компенсацию за дом, но я не согласен с суммой",
+      "mode": "appeal_guidance",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": []
+    },
+    {
+      "case": 19,
+      "question": "Моего ребёнка не зарегистрировали в школу, срок прошёл",
+      "mode": "appeal_guidance",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": []
+    },
+    {
+      "case": 20,
+      "question": "У нас опасный мост, дети ходят через него",
+      "mode": "offer_ticket",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": []
+    },
+    {
+      "case": 21,
+      "question": "Мне нужна помощь с пособием",
+      "mode": "appeal_guidance",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": []
+    },
+    {
+      "case": 22,
+      "question": "Телефон «Ала-Бука райондук электр тармактары» ишканасы",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-269"
+      ]
+    },
+    {
+      "case": 23,
+      "question": "Телефон №17 ЖОЛ ЭКСПЛУАТАЦИЯЛОО ИШКАНАСЫ",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-269"
+      ]
+    },
+    {
+      "case": 24,
+      "question": "Телефон КР МИНИСТРЛЕР КАБИНЕТИНЕ КАРАШТУУ ЖЕР РЕСУРСТАРЫ КАДАСТР, ГЕОДЕЗИЯ ЖАНА КАРТОГРАФИЯ БОЮНЧА МАМЛЕКЕТТИК АГЕНТТИКТИН АЛА-БУКА ФИЛИАЛЫ",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-269"
+      ]
+    },
+    {
+      "case": 25,
+      "question": "Телефон АЛА-БУКА РАЙОНДУК ШААР КУРУУ ЖАНА АРХИТЕКТУРА БАШКАРМАЛЫГЫ",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-269"
+      ]
+    },
+    {
+      "case": 26,
+      "question": "Телефон АЛА-БУКА РАЙОНДУК СОЦИАЛДЫК ФОНД БАШКАРМАЛЫГЫ",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-269"
+      ]
+    },
+    {
+      "case": 27,
+      "question": "Телефон АЛА-БУКА РАЙОНДУК ЭМГЕК, СОЦИАЛДЫК КАМСЫЗДОО ЖАНА МИГРАЦИЯ БАШКАРМАЛЫГЫ",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-269"
+      ]
+    },
+    {
+      "case": 28,
+      "question": "Телефон 04-02 АЛА-БУКА РАЙОНДУК КАЛКТЫ ТЕЙЛӨӨ БӨЛҮМҮ",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-269"
+      ]
+    },
+    {
+      "case": 29,
+      "question": "Телефон АЛА-БУКА РАЙОНДУК БИЛИМ БЕРҮҮ БӨЛҮМҮ",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-269"
+      ]
+    },
+    {
+      "case": 30,
+      "question": "Телефон АЛА-БУКА РАЙОНДУК ИЧКИ ИШТЕР БӨЛҮМҮ",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-269"
+      ]
+    },
+    {
+      "case": 31,
+      "question": "Телефон КР СУУ РЕСУРСТАРЫ АЙЫЛ ЧАРБА ЖАНА КАЙРА ИШТЕТҮҮ ӨНӨР-ЖАЙ МИНИСТРЛИГИ, ВЕТЕРИНАРИЯ МАЛ ЧАРБАСЫН ӨНҮКТҮРҮҮ ЖАНА ТОЮТ КЫЗМАТЫНЫН АЛА-БУКА РАЙОНДУК БАШКАРМАЛЫГЫ",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-269"
+      ]
+    },
+    {
+      "case": 32,
+      "question": "Телефон Мэрия города Кербен",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-272"
+      ]
+    },
+    {
+      "case": 33,
+      "question": "Когда работает МП «Жашылдандыруу жана көрктөндүрүү»",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-272"
+      ]
+    },
+    {
+      "case": 34,
+      "question": "Когда работает МП «Кербен сууканал»",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-272"
+      ]
+    },
+    {
+      "case": 35,
+      "question": "Когда работает Сары-Челек а/о",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-272"
+      ]
+    },
+    {
+      "case": 36,
+      "question": "Когда работает МП «Сары-Челек»",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-272"
+      ]
+    },
+    {
+      "case": 37,
+      "question": "Когда работает Кара-Камыш а/о",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-272"
+      ]
+    },
+    {
+      "case": 38,
+      "question": "Когда работает МП «Жашыл-Өрөөн»",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-272"
+      ]
+    },
+    {
+      "case": 39,
+      "question": "Когда работает МП «Малкалды»",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-272"
+      ]
+    },
+    {
+      "case": 40,
+      "question": "Когда работает Үч-Коргон а/о",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-272"
+      ]
+    },
+    {
+      "case": 41,
+      "question": "Когда работает МП «Үч-Коргон Ак-Ниет»",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-272"
+      ]
+    },
+    {
+      "case": 42,
+      "question": "Когда работает Базар-Коргон райондук №50 жол тейлөө ишканасы",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-273"
+      ]
+    },
+    {
+      "case": 43,
+      "question": "Когда работает Кыргыз Республикасынын Министрлер Кабинетине караштуу Жер ресурстары, кадастр, геодезия жана картография боюнча мамлекеттик агенттигинин Базар-Коргон филиалы",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-273"
+      ]
+    },
+    {
+      "case": 44,
+      "question": "Когда работает Базар-Коргон райондук социалдык фонд башкармалыгы",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-273"
+      ]
+    },
+    {
+      "case": 45,
+      "question": "Когда работает Базар-Коргон райондук эмгек, социалдык камсыздоо жана миграция башкармалыгы",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-273"
+      ]
+    },
+    {
+      "case": 46,
+      "question": "Когда работает Калкты жана жарандык абалдын актыларын каттоо департаментинин 04-03 регионалдык бөлүмү",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-273"
+      ]
+    },
+    {
+      "case": 47,
+      "question": "Когда работает Базар-Коргон райондук билим берүү бөлүмү",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-273"
+      ]
+    },
+    {
+      "case": 48,
+      "question": "Когда работает Базар-Коргон районудук ички иштер бөлүмү (РОВД)",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-273"
+      ]
+    },
+    {
+      "case": 49,
+      "question": "Когда работает Ветеринария, мал чарбасын өнүктүрүү, жайыт жана тоют башкармалыгы",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-273"
+      ]
+    },
+    {
+      "case": 50,
+      "question": "Телефон Майлуу-Суу шаарынын шаарсууканал мекемеси",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-267"
+      ]
+    },
+    {
+      "case": 51,
+      "question": "Когда работает Майлуу-Суу шаардык шаар куруу жана архитектура башкармалыгы",
+      "mode": "structured",
+      "expected_found": true,
+      "privacy_ok": true,
+      "source_ids": [
+        "NEW-267"
+      ]
+    }
+  ]
+}
